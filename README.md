@@ -1,12 +1,18 @@
 # Inverse-of-matrix
 
-AIM:To find Inverse-of-matrix
-ALGORITHM:
-Step 1:import numpy as np
-Step 2:create an empty lists
-Step 3:get inputs from the user
-Step 4:use inverse function
-Step 5:run the program
+## AIM:
+To find Inverse-of-matrix
+## ALGORITHM:
+### Step 1:
+import numpy as np
+### Step 2:
+create an empty lists
+### Step 3:
+get inputs from the user
+### Step 4:
+use inverse function
+### Step 5:
+run the program
 
 ## PROGRAM:
 ~~~
